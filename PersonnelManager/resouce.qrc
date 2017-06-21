@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/new/prefix">
+        <file>login.jpg</file>
+        <file>loginWindow.jpg</file>
+        <file>stackedWidget.jpg</file>
+        <file>background.jpg</file>
+        <file>close.png</file>
+        <file>open.png</file>
+    </qresource>
+</RCC>
